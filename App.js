@@ -16,7 +16,7 @@ export default function App() {
 
       <TextInput
         style = {styles.input}
-        placeholder = "Seu nome aqui"
+        placeholder = "Seu nome"
         onChangeText = {setNome}
         value = {nome}
       />
